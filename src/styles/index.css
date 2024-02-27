@@ -10,3 +10,37 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.circle {
+    min-height: 169px;
+    min-width: 169px;
+}
+
+.buttonA {
+    min-width: 169px;
+    min-height: 169px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.buttonB {
+    min-width: 169px;
+    min-height: 169px;
+    background-color: rgb(255, 242, 0);
+    border-radius: 50%;
+}
+
+.buttonC {
+    min-width: 169px;
+    min-height: 169px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+.glow {
+    min-width: 169px;
+    min-height: 169px;
+    box-shadow: 0 0 50px 15px #ffffff;
+}
+
+
